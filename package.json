@@ -2,6 +2,7 @@
   "author": "PayPal <DL-PP-Platform-NodeJs-SDK@ebay.com> (https://developer.paypal.com/)",
   "name": "paypal-rest-sample",
   "version": "1.0.0",
+  "main": "app.js",
   "private": true,
   "repository": {
     "type": "git",
